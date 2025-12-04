@@ -32,11 +32,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tonizulim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=tonizulim&theme=onedark)
-
 ---
 
 Thanks for visiting! 🚀
